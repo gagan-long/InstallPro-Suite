@@ -1,6 +1,6 @@
 <!-- Banner/logo section (optional, add your own logo if available) -->
 <p align="center">
-  <img src="https://via.placeholder.com/400x100?text=InstallPro+Suite" alt="InstallPro Suite Logo" />
+  <img src="logo.png" alt="InstallPro Suite Logo" />
 </p>
 
 <h1 align="center">InstallPro Suite</h1>
