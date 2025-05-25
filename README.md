@@ -1,6 +1,6 @@
 <!-- Banner/logo section (optional, add your own logo if available) -->
 <p align="center">
-  <img src="logo.png" alt="InstallPro Suite Logo" />
+  <img src="logo.png" height="30px" width="60px" alt="InstallPro Suite Logo" />
 </p>
 
 <h1 align="center">InstallPro Suite</h1>
